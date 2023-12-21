@@ -27,3 +27,4 @@ def add(num1=50, num2=30):
 add()
 add(40, 70)
 add(60, 90)
+add(50, 50)
